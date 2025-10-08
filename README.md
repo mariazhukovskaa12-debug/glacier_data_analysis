@@ -1,28 +1,27 @@
-# Study of Volcanic Eruptions Since the 18th Century
+# Выбираем ледник для белки
 
-This project explores volcanic eruptions recorded since the 1700s. The notebook analyzes historical data to identify patterns, impacts, and trends associated with volcanic activities over the centuries.
+В нашем проекте мы рассматриваем отступание ледников в разных странах мира, изменение их площади, высоты и объема. Так же мы хотим выяснить на каком из ледников Белка может надежно спрятать желудь.
 
-## Overview
 
-The notebook consists of several sections, each focusing on a different aspect of volcanic eruptions:
+## Список авторов
 
-- Introduction to the study of volcanic eruptions since the 18th century.
-- Preprocessing and indexing of eruption data for analysis.
-- Examination of data limitations, focusing on records post-1700.
-- Analysis of eruption frequencies based on volcano types.
-- Correlation between volcano types and associated disasters.
-- Identification of top-10 countries with the highest number of eruptions.
-- Analysis of countries where eruptions caused the most fatalities.
+Архипова Елизавета 
+Жуковская Мария
 
-## Usage
+## Идея проекта
 
-To run this notebook:
+В последние десятилетия ледники стремительно меняются под воздействием изменения климата. Чтобы лучше понять эти процессы, мы решили провести анализ данных о ледниках из базы Всемирной службы мониторинга ледников (World Glacier Monitoring Service, WGMS https://wgms.ch/ ).
+В ходе работы мы изучим, сколько ледников находится в разных странах, определим максимальную высоту их залегания, а также минимальные и максимальные потери высоты за последние годы. Особое внимание уделим анализу баланса массы ледников.
+Основной целью нашего проекта является выявление ледника с наиболее стабильными паказателями, чтобы Белка из "Ледникового периода" могла спрятать там свой желудь и не беспокоится за его сохранность, зная, что этот ледник растает еще не скоро.  
 
-1. Ensure you have Jupyter Notebook or JupyterLab installed.
-2. Download the dataset required for the analysis.
-3. Open the `Ponomareva_proj.ipynb` file in Jupyter.
-4. Execute the cells sequentially to reproduce the analysis.
+markdown
+![Гифка белка нюхает лёд](https://i.yapx.ru/ILzg7.gif)
 
-## Data
 
-The analysis is based on volcanic eruption data from the 18th century onwards. The data includes information about eruption dates, types, affected countries, and casualties. 
+## Как запустить проект
+
+1. Убедитесь, что у вас установлен Jupyter Notebook или JupyterLab.
+2. Загрузите набор данных, необходимый для анализа.
+3. Откройте `НАЗВАНИЕ НАШЕГО ПРОЕКТА ДОБАВИТЬ ПОЗЖЕ.ipynb` файл в Jupyter.
+4. Выполните анализ ячеек последовательно, чтобы воспроизвести результаты анализа.
+
